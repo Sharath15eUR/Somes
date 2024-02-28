@@ -1,0 +1,8 @@
+Module 1 Assesment - Guess the output answers 
+
+
+6. 12
+
+7. 24
+
+8. 87654321
